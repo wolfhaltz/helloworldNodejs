@@ -1,6 +1,6 @@
 # Welcome node.js
 
-"Welcome node.js" is simple repo that uses node.js, and it have no purpose more than study.
+"Welcome node.js" is a simple repo that uses node.js, and it has no purpose more than study.
 
 ## Installation
 
